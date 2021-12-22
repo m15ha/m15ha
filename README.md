@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-336791?style=flat-square&logo=microsoft%20sql%20server)
-![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)  
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
+  ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
   
