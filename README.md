@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ⚡Languages and Tools:
-  <br/>
   <p align="left">   
   
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -32,6 +31,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
+</p>
   
 
 
