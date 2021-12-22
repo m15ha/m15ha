@@ -23,6 +23,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-black?style=flat-square&logo=chakra%20ui)
+  
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
