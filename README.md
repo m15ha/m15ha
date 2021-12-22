@@ -10,6 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 -->
 
 ⚡Languages and Tools:
@@ -23,14 +24,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-black?style=flat-square&logo=chakra%20ui)
-  
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=blue)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+
 
 
   
