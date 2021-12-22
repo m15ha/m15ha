@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Microsoft SQL Server](https://img.shields.io/badge/-MSSQL-336791?style=flat-square&logo=Microsoft SQL Server)
+![MSSQL](https://img.shields.io/badge/-MSSQL-336791?style=flat-square&logo=mssql)
 
   
 
