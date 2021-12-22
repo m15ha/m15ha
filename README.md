@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <br/>
   <p align="left">   
 
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=Visual%20Studio%20Code)  
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows) 
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)  
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue) 
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
