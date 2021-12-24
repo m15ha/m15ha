@@ -14,7 +14,7 @@
 -->
 
 🔭 I’m currently working on ...
-[Game Store] https://m15ha.github.io/react-ecom-gamesstore/
+[Game Store] (https://m15ha.github.io/react-ecom-gamesstore/)
 
 <br/>
 
