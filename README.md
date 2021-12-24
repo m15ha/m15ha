@@ -14,7 +14,13 @@
 -->
 
 🔭 I’m currently working on ...
-[Game Store] (https://m15ha.github.io/react-ecom-gamesstore/)
+<br/>
+* [Game store](https://m15ha.github.io/react-ecom-gamesstore/)
+* [Portfolio](https://m15ha.github.io/react-portfolio001/)
+* [StarWars fun site](https://m15ha.github.io/star-wars001/)
+* [Tesla clone](https://m15ha.github.io/tsla-clone/)
+* [Food recipes](https://m15ha.github.io/pizza/)
+* [Fortnite store](https://m15ha.github.io/fortnite/)
 
 <br/>
 
