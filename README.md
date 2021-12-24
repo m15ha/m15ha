@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br/><br/>
+<br/>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,6 +12,11 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 -->
+
+🔭 I’m currently working on ...
+[Game Store] https://m15ha.github.io/react-ecom-gamesstore/
+
+<br/>
 
 ⚡Languages and Tools:
   <br/>
@@ -31,7 +36,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=blue)
 
-
+<br/>
 
   
 
