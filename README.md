@@ -39,7 +39,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=blue)
 
 <br/>
