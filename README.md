@@ -20,7 +20,7 @@
 * [StarWars fun site](https://m15ha.github.io/star-wars001/)
 * [Tesla clone](https://m15ha.github.io/tsla-clone/)
 * [Food recipes](https://m15ha.github.io/pizza/)
-* [Fortnite store](https://m15ha.github.io/fortnite/)
+* [Plank](https://m15ha.github.io/plank/)
 
 <br/>
 
