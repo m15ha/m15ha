@@ -16,9 +16,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=blue)
 
 <br/>
 
